@@ -173,6 +173,11 @@ In case of WiFi collapse you should have ethernet available at the chairs,
 at least fast ethernet feeding into a gigabit backbone arranged in a star
 or extended star topology.
 
+### Sharing files
+
+You can try peer to peer options like: https://www.sharefest.me/ or just arrange a local NAS.
+Another option is to create a shared directoy with Google Drive, Dropbox etc'.
+
 ## Power
 
 ### Power sockets
