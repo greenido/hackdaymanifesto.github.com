@@ -333,6 +333,10 @@ covering the event. This can be done with Google Docs, an Etherpad or with a
 page on a wiki. Several Hackday bespoke applications exist, too. Plan for that
 resource to stay around as a historical record of what was built.
 
+(!) If you want to have good demos - give developers the option to form a group 
+and work on their ideas before the offical starting time. This is a bit of 'cheating'
+but in a good way.
+
 ### Time limit
 
 Each demo should be given a fixed time limit, standard times are 60, 90, 180,
@@ -347,6 +351,8 @@ beginning of the event. Some attendees will become frustrated when they see
 others demo-ing paper prototypes or Photoshop mockups when they believed a
 working implementation was required. If hacks do not meet these base
 requirements, they should not be able to win a prize.
+
+(!) You might want to offer several options for prizes so 'everyone' wins.
 
 ### Audience vote
 
